@@ -1,0 +1,4 @@
+jdbc.driver=com.mysql.jdbc.Driver
+jdbc.url=jdbc:mysql://192.168.21.34:8400/hvideo_db_3_1_0?useUnicode=true&characterEncoding=utf8&autoReconnect=true
+jdbc.username=root
+jdbc.password=bhjRjxwC8EBqaJC7
